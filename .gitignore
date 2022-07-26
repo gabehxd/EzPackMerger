@@ -1,0 +1,7 @@
+# Exclude exported CurseForge zip files
+*.zip
+
+#build files
+/base1/
+/base2/
+/output/
